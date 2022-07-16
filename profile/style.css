@@ -1,0 +1,49 @@
+/* .mycar{
+    max-height: 200px;
+    max-width: 400px;
+} */
+
+body{
+    background-image: url("../images/brrbg1.jpg");
+    background-size: cover;
+      background-position: top center;
+    background-repeat: no-repeat;
+    background-color: #cbd8de;
+}
+
+h1{
+    font-family: 'Abril Fatface', cursive;
+}
+
+.drop-shadow{
+    text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.524);
+}
+
+.lead{
+    font-size: 2.2rem;
+}
+
+/* these are just to show how to edit bootstrap classes */
+.btn-outline-light{
+    border-color: white;
+}
+
+.btn-outline-light:hover{
+    background-color: rgba(255, 255, 255, 0.476);
+}
+
+.myalign{
+    margin-left: 13px;
+    margin-top: 20px;
+}
+
+a p{
+    font-family: 'PT Serif', serif;
+    margin-left: 5px;
+}
+
+.btn-primary, .btn-primary:hover{
+    background-color: #00BBC9;
+    border-color: #00BBC9;
+}
+

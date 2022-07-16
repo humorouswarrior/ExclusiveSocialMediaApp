@@ -1,0 +1,14 @@
+Always when using col, always wrap it in a row. ALWAYS. 
+Dont mess with bootstrap classes too much. mostly just wrap stuff in your own div and then style that. 
+
+look at layout-a and layout-b
+
+
+
+
+
+
+
+When dealing with classes for appliying media query, always have mobile view in mind first and then change it for the bigger sizer as and when it pleases you. 
+
+look at layout-c
